@@ -10,7 +10,9 @@ The focus of this research project is to develop the lane detection capabilities
 
 My task was to improve upon the results provided by the [GSCNN](https://github.com/nv-tlabs/GSCNN).
 
-<img src="Images/gscnn-demo.gif" alt="GSCNN" title="GSCNN" align="centre" height="300" />
+<p align="center">
+  <img src="Images/gscnn-demo.gif" alt="GSCNN" title="GSCNN" height="300" />
+</p>
 
 on the development of a complex hand gesture recognition system that can interface with a website, games and a robot all using the built-in webcam of a computer. In this currently on going project, I am responsible for researching contemporary machine learning approaches to achieving this goal, find an appropriate dataset and developing a model and train it to have a high performance accuracy. I am conducting the research work and development with a group of dedicated students in the University Of Toronto Machine Intelligence Student Team.
 
