@@ -1,8 +1,8 @@
 <a href="https://github.com/MustafaKhan670093/Hand-Gesture-Recognition-Research-UTMIST#hand-gesture-recognition-research--utmist-">
-    <img src="Images/logo.png" alt="aUToronto" title="aUToronto" align="right" height="150" />
+    <img src="Images/logo.png" alt="aUToronto" title="aUToronto" align="right" height="100" />
 </a>
 
-# Lane And Road Detection Research | aUToronto 👋 
+# Lane Detection Research | aUToronto 🚙  
 
 ## Introduction
 
