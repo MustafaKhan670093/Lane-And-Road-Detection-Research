@@ -15,3 +15,5 @@ My task was to improve upon the results of Zeus, whose current lane detection sy
 </p>
 
 I am currently looking at whether [PINet](https://github.com/koyeongmin/PINet) or the [Ultra Fast Lane Detection](https://github.com/cfzd/Ultra-Fast-Lane-Detection) networks can be integrated into the existing system with good results. Additionally, I am also exploring the potential for post processing pipelines, initializing sensor information and other methods which adjust/improve classifiers can be used to improve the performance of the car.
+
+Code to be shared here once I get approval about what can and can't be made open source. Since we are currently still competing with our car in the SAE Autodrive Challenge, this may take some time. Thanks for understanding!
